@@ -1,5 +1,9 @@
 # MARVELLOUS Specification 1.0
 
+# By Parth Ganeriwala and Divij Dhiman
+
+# Special Thanks to Anbil Pagutharivu 
+
 *The goal of this specification is to act as a baseline for all following MARVELLOUS specifications. As such, some traditionally expected language features may appear "incomplete." This is most likely deliberate, as it will be easier to add to the language than to change and introduce further incompatibilities.*
 
 ---
