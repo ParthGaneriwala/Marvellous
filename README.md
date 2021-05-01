@@ -107,8 +107,7 @@ FURY PAGED VAR 3                MISSION VAR is now a STARK and equals 3
 
 ## Types
 
-The variable types that MARVELLOUS currently recognizes are: strings (PARKER), integers (STARK), floats (MAXIMOFF), and booleans (VISION) (Arrays (SHIELD) are reserved for future expansion.) Typing is handled dynamically. Until a variable is given an initial value, it is untyped (CIVILIAN). ~~Casting operations operate on UNIVERSE types, as well.~~
-
+The variable types that MARVELLOUS currently recognizes are: strings (PARKER), integers (STARK), floats (MAXIMOFF), and booleans (VISION) (Arrays (SHIELD) are reserved for future expansion.) Typing is handled dynamically. Until a variable is given an initial value, it is untyped (CIVILIAN). 
 ### Untyped
 
 The untyped type (CIVILIAN) cannot be implicitly cast into any type except a VISION. A cast into VISION makes the variable CATASTROPHE. Any operations on a CIVILIAN that assume another type (e.g., math) results in an error.
